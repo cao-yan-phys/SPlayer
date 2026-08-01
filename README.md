@@ -1,0 +1,3 @@
+![](off_axis_scattering_cuda_n320x240x160_L60x45x30_m5_sep28_b4_v3_dtmax0p0125_wavefunction.gif)
+
+![](off_axis_scattering_cuda_n320x240x160_L60x45x30_m5_sep28_b4_v3_dtmax0p0125_z_polarized_quadrupole_waveforms.png)
